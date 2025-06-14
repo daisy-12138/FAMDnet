@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the official pytorch implementation of [Frequency Assisted Multi-Scale Dual-Stream Network for Low-quality Deepfake Detection].
+This is the official pytorch implementation of Frequency Assisted Multi-Scale Dual-Stream Network for Low-quality Deepfake Detection.
 
 ## Clone this repository
 
